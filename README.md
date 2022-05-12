@@ -1,16 +1,31 @@
-### Hi there 👋
+## **Hello, My name is Piotr and welcome to my profile** 🤠
 
-<!--
-**SanglierF/SanglierF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SanglierF)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/piotr-karsznia-981a56234/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **This is the part with incoherent rambling** 🐌:
+
+- 🖥️ Currently learning react
+- 🚀 Sci-fi military space operas reader
+- 📃 Avid webnovel reader
+
+## **Languages and Tools** 🖱️:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&style=for-the-badge&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&style=for-the-badge&logoColor=black)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&style=for-the-badge&logoColor=black)
+
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=SQLite&style=for-the-badge&logoColor=black)
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=Java&style=for-the-badge&logoColor=black)
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=black) ![ESlint](https://img.shields.io/badge/-ESlint-4B32C3?logo=ESLint&style=for-the-badge&logoColor=black)
+
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=VisualStudioCode&style=for-the-badge&logoColor=black)
+
+<details>
+  <summary>GitHub Stats :eyes:</summary>
+  <img align="left" alt="SanglierF's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SanglierF&hide=contribs,prs&count_private=true&show_icons=true&theme=gruvbox" />
+</details>
